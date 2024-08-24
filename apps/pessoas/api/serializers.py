@@ -1,11 +1,12 @@
 from rest_framework import serializers
-from apps.gatos import models
+from apps.pessoas.models import Pessoas
 
-class PessoasSerializer(serializers.ModelSerializer):
+class PessoaSerializer(serializers.ModelSerializer):
     class Meta:
-        model = models.Pessoas
+        model = Pessoas
         fields = [
             'id',
             'nome',
+            'sobrenome',
             'idade'
         ]
