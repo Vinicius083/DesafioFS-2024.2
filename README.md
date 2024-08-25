@@ -42,12 +42,12 @@ Para utilizar o projeto, siga os passos abaixo:
 2. Utilize as rotas disponíveis, como `/apps/piadas/procurar_piada/` para buscar uma piada aleatória.
 
 ## Funcionalidades
-# Geek-Joke-Api
+### Geek-Joke-Api
 - Buscar piadas aleatórias usando a Geek-Joke-API. # /apps/piadas/procurar_piada/
 - Salvar piadas no banco de dados. 
 - Expor uma API RESTful para acessar as piadas salvas.
 
-# Cadastro
+### Cadastro
 - Realizar um cadastro simpes de pessoas. # /apps/cadastro
 - Salvar os cadastros no banco de dados. 
 - Expor uma API RESTful para acessar os cadastros salvos. 
