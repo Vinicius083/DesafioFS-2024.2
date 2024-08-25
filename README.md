@@ -58,5 +58,5 @@ Para utilizar o projeto, siga os passos abaixo:
 - [Requests](https://docs.python-requests.org/en/master/) - Para fazer requisições HTTP
 
 ## Contato
-Vinícius Almeida - [e-mail](jvinicius7337@gmail.com)
+Vinícius Almeida - [jvinicius7337@gmail.com](mailto:jvinicius7337@gmail.com)
 Link do Projeto: https://github.com/Vinicius083/DesafioFS-2024.2
